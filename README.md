@@ -1,4 +1,4 @@
-# 🌍 Azure Language Translation API Integration 🚀
+# 🌍  Language Translation API Integration 🚀
 
 This project integrates the **Azure Language Translation API** to enable real-time translation of text into multiple languages. It provides API endpoints to fetch supported languages and translate text dynamically.
 
